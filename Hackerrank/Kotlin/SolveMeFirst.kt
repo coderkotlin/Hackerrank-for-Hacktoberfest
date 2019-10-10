@@ -1,3 +1,11 @@
+/**
+ * https://www.hackerrank.com/challenges/solve-me-first/problem
+ *
+ * Run with:
+ * kotlinc SolveMeFirst.kt -include-runtime -d SolveMeFirst.jar
+ * java -jar SolveMeFirst.jar
+ */
+
 import java.util.*
 
 fun solveMeFirst(a: Int, b: Int) = a + b
