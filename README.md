@@ -1,7 +1,7 @@
 # Hacktoberfest
 
 This repository is mainly open to house to those who are looking to make some PR for the Hacktoberfest event, and to get started with Github and the open-source world.
-In this repository, you can find the solutions (as source code) for the problmes in [HackerRank](https://hackerrank.com).
+In this repository, you can find the solutions (as source code) for the problems in [HackerRank](https://hackerrank.com).
 
 ### Why contribute to this repository
 - Beginner friendly
